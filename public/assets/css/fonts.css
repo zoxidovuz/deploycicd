@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Brutal Type';
+    src: local('Brutal Type Light'), local('Brutal-Type-Light'),
+        url('../fonts/BrutalType-Light/BrutalType-Light.woff2') format('woff2'),
+        url('../fonts/BrutalType-Light/BrutalType-Light.woff') format('woff'),
+        url('../fonts/BrutalType-Light/BrutalType-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brutal Type';
+    src: local('Brutal Type Regular'), local('Brutal-Type-Regular'),
+        url('../fonts/BrutalType-Regular/BrutalType.woff2') format('woff2'),
+        url('../fonts/BrutalType-Regular/BrutalType.woff') format('woff'),
+        url('../fonts/BrutalType-Regular/BrutalType.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brutal Type';
+    src: local('Brutal Type Medium'), local('Brutal-Type-Medium'),
+        url('../fonts/BrutalType-Medium/BrutalType-Medium.woff2') format('woff2'),
+        url('../fonts/BrutalType-Medium/BrutalType-Medium.woff') format('woff'),
+        url('../fonts/BrutalType-Medium/BrutalType-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sony';
+    src: local('Sony'), local('Sony'),
+        url('../fonts/Sony-Sketch-EF/7fonts.ru_Sony_Sketch_EF.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
